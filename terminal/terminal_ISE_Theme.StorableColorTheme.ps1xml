@@ -78,43 +78,63 @@
   <Values>
     <Color>
       <A>255</A>
-      <R>220</R>
-      <G>50</G>
-      <B>47</B>
+      <R>0</R>
+      <G>128</G>
+      <B>0</B>
       <ScA>1</ScA>
-      <ScR>0.7156935</ScR>
-      <ScG>0.0318960324</ScG>
-      <ScB>0.02842604</ScB>
+      <ScR>0</ScR>
+      <ScG>0.215860531</ScG>
+      <ScB>0</ScB>
     </Color>
     <Color>
       <A>255</A>
-      <R>1</R>
-      <G>36</G>
-      <B>86</B>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
       <ScA>1</ScA>
-      <ScR>0.000303527</ScR>
-      <ScG>0.0176419541</ScG>
-      <ScB>0.0930589661</ScB>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
     </Color>
     <Color>
       <A>255</A>
-      <R>203</R>
-      <G>75</G>
-      <B>22</B>
+      <R>229</R>
+      <G>0</G>
+      <B>0</B>
       <ScA>1</ScA>
-      <ScR>0.597201765</ScR>
-      <ScG>0.0703600943</ScG>
-      <ScB>0.008023193</ScB>
+      <ScR>0.7835378</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
     </Color>
     <Color>
       <A>255</A>
-      <R>1</R>
-      <G>36</G>
-      <B>86</B>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
       <ScA>1</ScA>
-      <ScR>0.000303527</ScR>
-      <ScG>0.0176419541</ScG>
-      <ScB>0.0930589661</ScB>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>255</R>
+      <G>255</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>1</ScR>
+      <ScG>1</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
     </Color>
     <Color>
       <A>255</A>
@@ -123,38 +143,8 @@
       <B>214</B>
       <ScA>1</ScA>
       <ScR>0.0930589661</ScR>
-      <ScG>0.332451522</ScG>
+      <ScG>0.332451552</ScG>
       <ScB>0.672443151</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>1</R>
-      <G>36</G>
-      <B>86</B>
-      <ScA>1</ScA>
-      <ScR>0.000303527</ScR>
-      <ScG>0.0176419541</ScG>
-      <ScB>0.0930589661</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>86</R>
-      <G>156</G>
-      <B>214</B>
-      <ScA>1</ScA>
-      <ScR>0.0930589661</ScR>
-      <ScG>0.332451522</ScG>
-      <ScB>0.672443151</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>1</R>
-      <G>36</G>
-      <B>86</B>
-      <ScA>1</ScA>
-      <ScR>0.000303527</ScR>
-      <ScG>0.0176419541</ScG>
-      <ScB>0.0930589661</ScB>
     </Color>
     <Color>
       <A>255</A>
@@ -173,6 +163,216 @@
       <B>0</B>
       <ScA>1</ScA>
       <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>0</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>1</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>1</ScR>
+      <ScG>1</ScG>
+      <ScB>1</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>255</R>
+      <G>0</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>1</ScR>
+      <ScG>0</ScG>
+      <ScB>1</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>1</ScR>
+      <ScG>1</ScG>
+      <ScB>1</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>204</R>
+      <G>204</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0.603827357</ScR>
+      <ScG>0.603827357</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>238</R>
+      <G>237</G>
+      <B>240</B>
+      <ScA>1</ScA>
+      <ScR>0.8549926</ScR>
+      <ScG>0.8468732</ScG>
+      <ScB>0.8713671</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>255</R>
+      <G>0</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>1</ScR>
+      <ScG>0</ScG>
+      <ScB>1</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>1</ScR>
+      <ScG>1</ScG>
+      <ScB>1</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>238</R>
+      <G>237</G>
+      <B>240</B>
+      <ScA>1</ScA>
+      <ScR>0.8549926</ScR>
+      <ScG>0.8468732</ScG>
+      <ScB>0.8713671</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+      <ScA>1</ScA>
+      <ScR>1</ScR>
+      <ScG>1</ScG>
+      <ScB>1</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>229</R>
+      <G>0</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0.7835378</ScR>
       <ScG>0</ScG>
       <ScB>0</ScB>
     </Color>
@@ -188,222 +388,22 @@
     </Color>
     <Color>
       <A>255</A>
-      <R>0</R>
-      <G>0</G>
-      <B>0</B>
-      <ScA>1</ScA>
-      <ScR>0</ScR>
-      <ScG>0</ScG>
-      <ScB>0</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>133</R>
-      <G>153</G>
-      <B>0</B>
-      <ScA>1</ScA>
-      <ScR>0.23455058</ScR>
-      <ScG>0.318546772</ScG>
-      <ScB>0</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>78</R>
-      <G>201</G>
-      <B>176</B>
-      <ScA>1</ScA>
-      <ScR>0.07618538</ScR>
-      <ScG>0.584078431</ScG>
-      <ScB>0.434153646</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>0</R>
-      <G>255</G>
-      <B>0</B>
-      <ScA>1</ScA>
-      <ScR>0</ScR>
-      <ScG>1</ScG>
-      <ScB>0</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>178</R>
-      <G>215</G>
-      <B>163</B>
-      <ScA>1</ScA>
-      <ScR>0.4452012</ScR>
-      <ScG>0.6795425</ScG>
-      <ScB>0.3662526</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
       <R>88</R>
       <G>110</G>
       <B>117</B>
       <ScA>1</ScA>
-      <ScR>0.09758735</ScR>
-      <ScG>0.155926466</ScG>
-      <ScB>0.177888423</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
-      <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>255</R>
-      <G>255</G>
-      <B>255</B>
-      <ScA>1</ScA>
-      <ScR>1</ScR>
-      <ScG>1</ScG>
-      <ScB>1</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>214</R>
-      <G>157</G>
-      <B>133</B>
-      <ScA>1</ScA>
-      <ScR>0.672443151</ScR>
-      <ScG>0.337163627</ScG>
-      <ScB>0.23455058</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>181</R>
-      <G>137</G>
-      <B>0</B>
-      <ScA>1</ScA>
-      <ScR>0.462077</ScR>
-      <ScG>0.25015828</ScG>
-      <ScB>0</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
-      <R>88</R>
-      <G>110</G>
-      <B>117</B>
-      <ScA>1</ScA>
-      <ScR>0.09758735</ScR>
+      <ScR>0.0975873545</ScR>
       <ScG>0.155926466</ScG>
       <ScB>0.177888423</ScB>
     </Color>
     <Color>
       <A>255</A>
       <R>255</R>
-      <G>0</G>
+      <G>255</G>
       <B>0</B>
       <ScA>1</ScA>
       <ScR>1</ScR>
-      <ScG>0</ScG>
+      <ScG>1</ScG>
       <ScB>0</ScB>
     </Color>
     <Color>
@@ -422,7 +422,7 @@
       <G>50</G>
       <B>47</B>
       <ScA>1</ScA>
-      <ScR>0.7156935</ScR>
+      <ScR>0.715693533</ScR>
       <ScG>0.0318960324</ScG>
       <ScB>0.02842604</ScB>
     </Color>
@@ -482,8 +482,8 @@
       <G>137</G>
       <B>0</B>
       <ScA>1</ScA>
-      <ScR>0.462077</ScR>
-      <ScG>0.25015828</ScG>
+      <ScR>0.462077022</ScR>
+      <ScG>0.2501583</ScG>
       <ScB>0</ScB>
     </Color>
     <Color>
@@ -532,7 +532,7 @@
       <G>110</G>
       <B>117</B>
       <ScA>1</ScA>
-      <ScR>0.09758735</ScR>
+      <ScR>0.0975873545</ScR>
       <ScG>0.155926466</ScG>
       <ScB>0.177888423</ScB>
     </Color>
@@ -582,8 +582,8 @@
       <G>153</G>
       <B>0</B>
       <ScA>1</ScA>
-      <ScR>0.23455058</ScR>
-      <ScG>0.318546772</ScG>
+      <ScR>0.23455061</ScR>
+      <ScG>0.3185468</ScG>
       <ScB>0</ScB>
     </Color>
     <Color>
@@ -592,7 +592,7 @@
       <G>110</G>
       <B>117</B>
       <ScA>1</ScA>
-      <ScR>0.09758735</ScR>
+      <ScR>0.0975873545</ScR>
       <ScG>0.155926466</ScG>
       <ScB>0.177888423</ScB>
     </Color>
@@ -608,13 +608,13 @@
     </Color>
     <Color>
       <A>255</A>
-      <R>88</R>
-      <G>110</G>
-      <B>117</B>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
       <ScA>1</ScA>
-      <ScR>0.09758735</ScR>
-      <ScG>0.155926466</ScG>
-      <ScB>0.177888423</ScB>
+      <ScR>1</ScR>
+      <ScG>1</ScG>
+      <ScB>1</ScB>
     </Color>
     <Color>
       <A>255</A>
@@ -622,9 +622,9 @@
       <G>161</G>
       <B>152</B>
       <ScA>1</ScA>
-      <ScR>0.0231533665</ScR>
-      <ScG>0.356400132</ScG>
-      <ScB>0.313988715</ScB>
+      <ScR>0.0231533684</ScR>
+      <ScG>0.356400162</ScG>
+      <ScB>0.313988745</ScB>
     </Color>
     <Color>
       <A>255</A>
@@ -632,7 +632,7 @@
       <G>110</G>
       <B>117</B>
       <ScA>1</ScA>
-      <ScR>0.09758735</ScR>
+      <ScR>0.0975873545</ScR>
       <ScG>0.155926466</ScG>
       <ScB>0.177888423</ScB>
     </Color>
@@ -642,7 +642,7 @@
       <G>110</G>
       <B>117</B>
       <ScA>1</ScA>
-      <ScR>0.09758735</ScR>
+      <ScR>0.0975873545</ScR>
       <ScG>0.155926466</ScG>
       <ScB>0.177888423</ScB>
     </Color>
@@ -702,8 +702,8 @@
       <G>75</G>
       <B>22</B>
       <ScA>1</ScA>
-      <ScR>0.597201765</ScR>
-      <ScG>0.0703600943</ScG>
+      <ScR>0.5972018</ScR>
+      <ScG>0.0703601</ScG>
       <ScB>0.008023193</ScB>
     </Color>
     <Color>
@@ -712,9 +712,9 @@
       <G>161</G>
       <B>152</B>
       <ScA>1</ScA>
-      <ScR>0.0231533665</ScR>
-      <ScG>0.356400132</ScG>
-      <ScB>0.313988715</ScB>
+      <ScR>0.0231533684</ScR>
+      <ScG>0.356400162</ScG>
+      <ScB>0.313988745</ScB>
     </Color>
     <Color>
       <A>255</A>
@@ -728,22 +728,12 @@
     </Color>
     <Color>
       <A>255</A>
-      <R>86</R>
-      <G>156</G>
-      <B>214</B>
-      <ScA>1</ScA>
-      <ScR>0.0930589661</ScR>
-      <ScG>0.332451522</ScG>
-      <ScB>0.672443151</ScB>
-    </Color>
-    <Color>
-      <A>255</A>
       <R>0</R>
-      <G>0</G>
+      <G>255</G>
       <B>0</B>
       <ScA>1</ScA>
       <ScR>0</ScR>
-      <ScG>0</ScG>
+      <ScG>1</ScG>
       <ScB>0</ScB>
     </Color>
     <Color>
@@ -768,12 +758,22 @@
     </Color>
     <Color>
       <A>255</A>
-      <R>181</R>
-      <G>137</G>
+      <R>0</R>
+      <G>0</G>
       <B>0</B>
       <ScA>1</ScA>
-      <ScR>0.462077</ScR>
-      <ScG>0.25015828</ScG>
+      <ScR>0</ScR>
+      <ScG>0</ScG>
+      <ScB>0</ScB>
+    </Color>
+    <Color>
+      <A>255</A>
+      <R>0</R>
+      <G>255</G>
+      <B>0</B>
+      <ScA>1</ScA>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
       <ScB>0</ScB>
     </Color>
     <Color>
@@ -798,16 +798,16 @@
     </Color>
     <Color>
       <A>255</A>
-      <R>238</R>
-      <G>237</G>
-      <B>240</B>
+      <R>0</R>
+      <G>255</G>
+      <B>0</B>
       <ScA>1</ScA>
-      <ScR>0.8549926</ScR>
-      <ScG>0.8468732</ScG>
-      <ScB>0.8713671</ScB>
+      <ScR>0</ScR>
+      <ScG>1</ScG>
+      <ScB>0</ScB>
     </Color>
   </Values>
   <Name>(Customized Theme)</Name>
   <FontFamily>Lucida Console</FontFamily>
-  <FontSize>10</FontSize>
+  <FontSize>11</FontSize>
 </StorableColorTheme>
